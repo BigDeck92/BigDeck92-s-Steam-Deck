@@ -1,0 +1,2 @@
+Hi there, I'm BigDeck92, a software developer passionate about open-source projects and game development. I love working on innovative solutions for the Steam Deck and creating immersive experiences with RPG MAKER MV. I'm excited to share my first contribution, a script that automates preparation for dual-booting Windows on the Steam Deck. Feel free to check out my repositories and get in touch if you're interested in working together!
+contact me at Vex1@live.com
